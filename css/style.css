@@ -1500,7 +1500,7 @@ body.ie .ibg img {
 
 .daily {
 	padding: 80px 0px 0px 0px;
-	background: url("../../img/daily/bg.png");
+	background: url("../img/daily/bg.png");
 }
 @media (max-width: 1432px) {
 	.daily {
